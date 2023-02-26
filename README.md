@@ -6,3 +6,6 @@ Software Engineering Assignment
 
 ## Class diagram for specifications (along with other use cases)
 ![image](https://user-images.githubusercontent.com/85257187/221427550-336c6617-d0d2-4767-bbed-218e3c4315c4.png)
+
+## Sequence Diagram
+![image](https://user-images.githubusercontent.com/85257187/221427606-e8099637-9075-492e-9541-6fd915713887.png)
