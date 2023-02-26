@@ -1,7 +1,7 @@
 # Team-Management-System
 Software Engineering Assignment
 
-## Specifications (only add player was coded)
+## Specifications (only add player use case was coded)
 ![image](https://user-images.githubusercontent.com/85257187/221427461-09887c66-f05a-4d9e-bf87-d6c4c3440715.png)
 
 ## Class diagram for specifications (along with other use cases)
